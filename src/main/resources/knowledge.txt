@@ -1,0 +1,14 @@
+
+Java is a high-level, object-oriented programming language.
+
+
+Java supports platform independence through the JVM.
+
+
+Spring Boot is a Java framework used to build standalone applications and REST APIs.
+
+Spring Boot reduces configuration and simplifies application development.
+
+RAG stands for Retrieval-Augmented Generation.
+
+RAG retrieves relevant information from documents and provides that information to an AI model to generate answers.
